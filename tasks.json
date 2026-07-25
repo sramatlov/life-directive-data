@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 5,
-  "updatedAt": "2026-07-25T00:11:07.155Z",
+  "updatedAt": "2026-07-25T00:11:09.043Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -134,6 +134,50 @@
       "completedAt": null,
       "source": "vacation-directive",
       "sourceId": "t9"
+    },
+    {
+      "id": "tmrzm5pqs6qzu",
+      "title": "Tuinhuis ophalen en in elkaar zetten met Stefan",
+      "day": "2026-07-22",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t6"
+    },
+    {
+      "id": "tmrzm5q4ge2l6",
+      "title": "CV fixen",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqglv998seb"
+    },
+    {
+      "id": "tmrzm5qj94l6p",
+      "title": "Fatbike band fixen",
+      "day": "2026-07-18",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t3"
+    },
+    {
+      "id": "tmrzm5qwhrgir",
+      "title": "Track app maken",
+      "day": "2026-07-18",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq9le4i5ekj"
     }
   ]
 }
