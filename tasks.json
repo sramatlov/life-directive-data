@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:45:50.911Z",
+  "updatedAt": "2026-07-25T16:46:20.176Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -488,6 +488,16 @@
       "title": "Ziekenhuis foto pols",
       "day": "2026-07-29",
       "cat": "admin",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null
+    },
+    {
+      "id": "tms0lpkb1dnfb",
+      "title": "Pub",
+      "day": "2026-08-01",
+      "cat": "rust",
       "done": false,
       "reminderAt": null,
       "completedAt": null,
