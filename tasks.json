@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:46:20.176Z",
+  "updatedAt": "2026-07-25T16:46:23.602Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -328,18 +328,6 @@
       "sourceId": "tmrqmdc2b4rfy"
     },
     {
-      "id": "tmrzm5zg7tulw",
-      "title": "Tegels ophogen",
-      "day": null,
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrq5kqsivlll"
-    },
-    {
       "id": "tmrzm61s7bbcc",
       "title": "Vloer hal schoonmaken",
       "day": null,
@@ -350,6 +338,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrteayzhbtso"
+    },
+    {
+      "id": "tmrzm5zg7tulw",
+      "title": "Tegels ophogen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5kqsivlll"
     },
     {
       "id": "tmrzm624rgf7x",
