@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T00:37:55.122Z",
+  "updatedAt": "2026-07-25T16:44:05.608Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -158,18 +158,6 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t6"
-    },
-    {
-      "id": "tmrzm61s7bbcc",
-      "title": "Vloer hal schoonmaken",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrteayzhbtso"
     },
     {
       "id": "tmrzm5qj94l6p",
@@ -350,6 +338,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5kqsivlll"
+    },
+    {
+      "id": "tmrzm61s7bbcc",
+      "title": "Vloer hal schoonmaken",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrteayzhbtso"
     },
     {
       "id": "tmrzm624rgf7x",
