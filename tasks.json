@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:44:33.893Z",
+  "updatedAt": "2026-07-25T16:45:50.911Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -482,6 +482,16 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmry3xh3sb3kr"
+    },
+    {
+      "id": "tms0loxq39w41",
+      "title": "Ziekenhuis foto pols",
+      "day": "2026-07-29",
+      "cat": "admin",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null
     }
   ],
   "missions": []
