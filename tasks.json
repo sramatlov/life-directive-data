@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:44:07.762Z",
+  "updatedAt": "2026-07-25T16:44:13.226Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -364,18 +364,6 @@
       "sourceId": "tmrq59ygcxkfr"
     },
     {
-      "id": "tmrzm5q4ge2l6",
-      "title": "CV fixen",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrqglv998seb"
-    },
-    {
       "id": "tmrzm62vl3jnk",
       "title": "Vloei halen",
       "day": "2026-07-21",
@@ -470,6 +458,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqo7lh451pb"
+    },
+    {
+      "id": "tmrzm5q4ge2l6",
+      "title": "CV fixen",
+      "day": "2026-07-26",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqglv998seb"
     },
     {
       "id": "tmrzm67m8jr5g",
