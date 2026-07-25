@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:44:15.446Z",
+  "updatedAt": "2026-07-25T16:44:33.893Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -358,7 +358,7 @@
       "cat": "huis",
       "done": true,
       "reminderAt": null,
-      "completedAt": "2026-07-25T16:44:07.759Z",
+      "completedAt": "2026-07-25T16:44:33.891Z",
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq59ygcxkfr"
