@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 5,
-  "updatedAt": "2026-07-25T00:11:13.805Z",
+  "updatedAt": "2026-07-25T00:11:30.707Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -211,6 +211,248 @@
       "completedAt": null,
       "source": "vacation-directive",
       "sourceId": "tmrrfrmg2i8bh"
+    },
+    {
+      "id": "tmrzm5w2wrgme",
+      "title": "Zalf ophalen",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrszhe1s3z6w"
+    },
+    {
+      "id": "tmrzm5wimgq3n",
+      "title": "Zakken halen bij Saver",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5cfnp4u39"
+    },
+    {
+      "id": "tmrzm5wy6kqme",
+      "title": "H&M pakket versturen DHL",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq9nj55r2s8"
+    },
+    {
+      "id": "tmrzm5xasoims",
+      "title": "Tuinhuis pt2",
+      "day": "2026-07-23",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq59gwnu9x2"
+    },
+    {
+      "id": "tmrzm5xou5n0y",
+      "title": "Grote slaapkamer schoonmaken",
+      "day": "2026-07-20",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t8"
+    },
+    {
+      "id": "tmrzm5y0dgj9f",
+      "title": "Vaatwas blokjes",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrsvgfjngzj4"
+    },
+    {
+      "id": "tmrzm5yx8f3ag",
+      "title": "Groenafval buiten zetten in de avond",
+      "day": "2026-07-20",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5oohdxgpe"
+    },
+    {
+      "id": "tmrzm5zg7tulw",
+      "title": "Tegels ophogen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5kqsivlll"
+    },
+    {
+      "id": "tmrzm60bid23g",
+      "title": "Kraan garage fixen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqmdc2b4rfy"
+    },
+    {
+      "id": "tmrzm60mdjxgx",
+      "title": "Tuinhuis inrichten",
+      "day": null,
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrweeoyiu0z9"
+    },
+    {
+      "id": "tmrzm60zpmzvn",
+      "title": "Vriezer en koelkast schoonmaken",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq9shn3x26t"
+    },
+    {
+      "id": "tmrzm61s7bbcc",
+      "title": "Vloer hal schoonmaken",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrteayzhbtso"
+    },
+    {
+      "id": "tmrzm624rgf7x",
+      "title": "Hout tuin verplaatsen",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq59ygcxkfr"
+    },
+    {
+      "id": "tmrzm62vl3jnk",
+      "title": "Vloei halen",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5ug4uy7jl"
+    },
+    {
+      "id": "tmrzm635yyesn",
+      "title": "Garage opruimen pt2",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrryjtf9kszg"
+    },
+    {
+      "id": "tmrzm63jfrvd2",
+      "title": "Vaatwasser",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmruqdrmcsxkr"
+    },
+    {
+      "id": "tmrzm64ejveh0",
+      "title": "Boodschappen",
+      "day": "2026-07-21",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmruqdwuvkk6a"
+    },
+    {
+      "id": "tmrzm64osasyl",
+      "title": "Belastingen doen",
+      "day": "2026-07-26",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq9lswb2dkp"
+    },
+    {
+      "id": "tmrzm6525pmyl",
+      "title": "Lindsey uit YouTube gooien",
+      "day": "2026-07-26",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqimj5pkjj1"
+    },
+    {
+      "id": "tmrzm6621evft",
+      "title": "Abonnementen bekijken / rocket money achtig iets?",
+      "day": "2026-07-26",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqin1rlr0p6"
+    },
+    {
+      "id": "tmrzm66d7fv3w",
+      "title": "Fatbike remmen fixen",
+      "day": "2026-07-26",
+      "cat": "project",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqo7lh451pb"
+    },
+    {
+      "id": "tmrzm67m8jr5g",
+      "title": "Tuinhuis pt3",
+      "day": "2026-07-24",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmry3xh3sb3kr"
     }
   ]
 }
