@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
-  "version": 5,
-  "updatedAt": "2026-07-25T00:11:59.155Z",
+  "version": 6,
+  "updatedAt": "2026-07-25T00:36:34.508Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -11,6 +11,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t2"
     },
@@ -22,6 +23,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t1"
     },
@@ -33,6 +35,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t4"
     },
@@ -44,6 +47,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5fia0wy3a"
     },
@@ -55,6 +59,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqo8o3oarh5"
     },
@@ -66,6 +71,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq55dhl6y8n"
     },
@@ -77,6 +83,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t5"
     },
@@ -88,6 +95,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5rdnmoyyg"
     },
@@ -99,6 +107,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq54ukg858u"
     },
@@ -110,6 +119,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5ntoignfq"
     },
@@ -121,6 +131,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5gnfzlu1a"
     },
@@ -132,6 +143,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t9"
     },
@@ -143,17 +155,19 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t6"
     },
     {
       "id": "tmrzm5q4ge2l6",
       "title": "CV fixen",
-      "day": "2026-07-25",
+      "day": null,
       "cat": "huis",
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqglv998seb"
     },
@@ -165,6 +179,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t3"
     },
@@ -176,6 +191,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9le4i5ekj"
     },
@@ -187,6 +203,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t7"
     },
@@ -198,6 +215,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrtlbgd30n5l"
     },
@@ -209,6 +227,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrrfrmg2i8bh"
     },
@@ -220,6 +239,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrszhe1s3z6w"
     },
@@ -231,6 +251,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5cfnp4u39"
     },
@@ -242,6 +263,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9nj55r2s8"
     },
@@ -253,6 +275,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq59gwnu9x2"
     },
@@ -264,6 +287,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "t8"
     },
@@ -275,6 +299,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrsvgfjngzj4"
     },
@@ -286,6 +311,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5oohdxgpe"
     },
@@ -297,6 +323,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5kqsivlll"
     },
@@ -308,6 +335,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqmdc2b4rfy"
     },
@@ -319,6 +347,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9shn3x26t"
     },
@@ -330,6 +359,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrteayzhbtso"
     },
@@ -341,6 +371,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq59ygcxkfr"
     },
@@ -352,6 +383,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq5ug4uy7jl"
     },
@@ -363,6 +395,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrryjtf9kszg"
     },
@@ -374,6 +407,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmruqdrmcsxkr"
     },
@@ -385,6 +419,7 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmruqdwuvkk6a"
     },
@@ -396,6 +431,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9lswb2dkp"
     },
@@ -407,6 +443,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqimj5pkjj1"
     },
@@ -418,6 +455,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqin1rlr0p6"
     },
@@ -429,6 +467,7 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqo7lh451pb"
     },
@@ -440,8 +479,10 @@
       "done": true,
       "reminderAt": null,
       "completedAt": null,
+      "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmry3xh3sb3kr"
     }
-  ]
+  ],
+  "missions": []
 }
