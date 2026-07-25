@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T00:37:38.064Z",
+  "updatedAt": "2026-07-25T00:37:42.318Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -328,18 +328,6 @@
       "sourceId": "tmrq5kqsivlll"
     },
     {
-      "id": "tmrzm60bid23g",
-      "title": "Kraan garage fixen",
-      "day": null,
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrqmdc2b4rfy"
-    },
-    {
       "id": "tmrzm60zpmzvn",
       "title": "Vriezer en koelkast schoonmaken",
       "day": null,
@@ -350,6 +338,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9shn3x26t"
+    },
+    {
+      "id": "tmrzm60bid23g",
+      "title": "Kraan garage fixen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqmdc2b4rfy"
     },
     {
       "id": "tmrzm624rgf7x",
