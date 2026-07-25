@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 5,
-  "updatedAt": "2026-07-25T00:11:09.043Z",
+  "updatedAt": "2026-07-25T00:11:13.805Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -178,6 +178,39 @@
       "completedAt": null,
       "source": "vacation-directive",
       "sourceId": "tmrq9le4i5ekj"
+    },
+    {
+      "id": "tmrzm5tde87tl",
+      "title": "Hal schilderen en opruimen",
+      "day": "2026-07-20",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t7"
+    },
+    {
+      "id": "tmrzm5tt29bvc",
+      "title": "UPS 10 tot 13",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrtlbgd30n5l"
+    },
+    {
+      "id": "tmrzm5ukoqt3s",
+      "title": "Tefon tape halen",
+      "day": "2026-07-21",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrrfrmg2i8bh"
     }
   ]
 }
