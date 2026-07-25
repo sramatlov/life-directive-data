@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:44:05.608Z",
+  "updatedAt": "2026-07-25T16:44:07.762Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -356,9 +356,9 @@
       "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
       "cat": "huis",
-      "done": false,
+      "done": true,
       "reminderAt": null,
-      "completedAt": null,
+      "completedAt": "2026-07-25T16:44:07.759Z",
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq59ygcxkfr"
