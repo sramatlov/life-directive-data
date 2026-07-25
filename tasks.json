@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 5,
-  "updatedAt": "2026-07-25T00:11:30.707Z",
+  "updatedAt": "2026-07-25T00:11:59.155Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -310,17 +310,6 @@
       "completedAt": null,
       "source": "vacation-directive",
       "sourceId": "tmrqmdc2b4rfy"
-    },
-    {
-      "id": "tmrzm60mdjxgx",
-      "title": "Tuinhuis inrichten",
-      "day": null,
-      "cat": "project",
-      "done": true,
-      "reminderAt": null,
-      "completedAt": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrweeoyiu0z9"
     },
     {
       "id": "tmrzm60zpmzvn",
