@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T00:37:18.563Z",
+  "updatedAt": "2026-07-25T00:37:38.064Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -484,12 +484,5 @@
       "sourceId": "tmry3xh3sb3kr"
     }
   ],
-  "missions": [
-    {
-      "id": "mmrzn3dybnouh",
-      "title": "Test",
-      "description": "",
-      "createdAt": "2026-07-25T00:37:18.563Z"
-    }
-  ]
+  "missions": []
 }
