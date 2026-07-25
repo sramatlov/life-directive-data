@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T00:36:34.508Z",
+  "updatedAt": "2026-07-25T00:37:18.563Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -160,16 +160,16 @@
       "sourceId": "t6"
     },
     {
-      "id": "tmrzm5q4ge2l6",
-      "title": "CV fixen",
-      "day": null,
+      "id": "tmrzm61s7bbcc",
+      "title": "Vloer hal schoonmaken",
+      "day": "2026-07-25",
       "cat": "huis",
       "done": false,
       "reminderAt": null,
       "completedAt": null,
       "missionId": null,
       "source": "vacation-directive",
-      "sourceId": "tmrqglv998seb"
+      "sourceId": "tmrteayzhbtso"
     },
     {
       "id": "tmrzm5qj94l6p",
@@ -352,18 +352,6 @@
       "sourceId": "tmrq9shn3x26t"
     },
     {
-      "id": "tmrzm61s7bbcc",
-      "title": "Vloer hal schoonmaken",
-      "day": "2026-07-25",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrteayzhbtso"
-    },
-    {
       "id": "tmrzm624rgf7x",
       "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
@@ -374,6 +362,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrq59ygcxkfr"
+    },
+    {
+      "id": "tmrzm5q4ge2l6",
+      "title": "CV fixen",
+      "day": "2026-07-25",
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqglv998seb"
     },
     {
       "id": "tmrzm62vl3jnk",
@@ -484,5 +484,12 @@
       "sourceId": "tmry3xh3sb3kr"
     }
   ],
-  "missions": []
+  "missions": [
+    {
+      "id": "mmrzn3dybnouh",
+      "title": "Test",
+      "description": "",
+      "createdAt": "2026-07-25T00:37:18.563Z"
+    }
+  ]
 }
