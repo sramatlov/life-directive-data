@@ -1,6 +1,139 @@
 {
   "app": "life-directive",
   "version": 5,
-  "updatedAt": "2026-07-25T00:08:14.686Z",
-  "tasks": []
+  "updatedAt": "2026-07-25T00:11:07.155Z",
+  "tasks": [
+    {
+      "id": "tmrzm5j56il1l",
+      "title": "Bed verschonen",
+      "day": "2026-07-18",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t2"
+    },
+    {
+      "id": "tmrzm5jiav9bx",
+      "title": "Huis opruimen",
+      "day": "2026-07-18",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t1"
+    },
+    {
+      "id": "tmrzm5k8aob8r",
+      "title": "Return of the Jedi kijken",
+      "day": "2026-07-18",
+      "cat": "rust",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t4"
+    },
+    {
+      "id": "tmrzm5kngg13s",
+      "title": "Was draaien",
+      "day": "2026-07-18",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5fia0wy3a"
+    },
+    {
+      "id": "tmrzm5l7fim2p",
+      "title": "Fatbike stand fixen",
+      "day": "2026-07-19",
+      "cat": "project",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqo8o3oarh5"
+    },
+    {
+      "id": "tmrzm5ljh8zfw",
+      "title": "Spullen Lindsey uit garage",
+      "day": "2026-07-19",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq55dhl6y8n"
+    },
+    {
+      "id": "tmrzm5lz1xnsu",
+      "title": "Huisarts bellen/berichten — pols en uitslag",
+      "day": "2026-07-20",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t5"
+    },
+    {
+      "id": "tmrzm5n5y7smn",
+      "title": "Garage opruimen",
+      "day": "2026-07-19",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5rdnmoyyg"
+    },
+    {
+      "id": "tmrzm5nhkrwai",
+      "title": "Tegels tuinhuis voegen",
+      "day": "2026-07-19",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq54ukg858u"
+    },
+    {
+      "id": "tmrzm5ntvghb8",
+      "title": "Groenafval tuin",
+      "day": "2026-07-19",
+      "cat": "huis",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5ntoignfq"
+    },
+    {
+      "id": "tmrzm5o3ydco0",
+      "title": "Huisarts langsgaan — pols en uitslag",
+      "day": "2026-07-24",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5gnfzlu1a"
+    },
+    {
+      "id": "tmrzm5pg1hj1v",
+      "title": "Naar de kapper",
+      "day": "2026-07-24",
+      "cat": "admin",
+      "done": true,
+      "reminderAt": null,
+      "completedAt": null,
+      "source": "vacation-directive",
+      "sourceId": "t9"
+    }
+  ]
 }
