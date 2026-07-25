@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T00:37:42.318Z",
+  "updatedAt": "2026-07-25T00:37:55.122Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -316,18 +316,6 @@
       "sourceId": "tmrq5oohdxgpe"
     },
     {
-      "id": "tmrzm5zg7tulw",
-      "title": "Tegels ophogen",
-      "day": null,
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrq5kqsivlll"
-    },
-    {
       "id": "tmrzm60zpmzvn",
       "title": "Vriezer en koelkast schoonmaken",
       "day": null,
@@ -350,6 +338,18 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqmdc2b4rfy"
+    },
+    {
+      "id": "tmrzm5zg7tulw",
+      "title": "Tegels ophogen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq5kqsivlll"
     },
     {
       "id": "tmrzm624rgf7x",
