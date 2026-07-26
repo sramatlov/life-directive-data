@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-26T07:01:16.832Z",
+  "updatedAt": "2026-07-26T07:01:22.144Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -376,6 +376,18 @@
       "sourceId": "tmrqin1rlr0p6"
     },
     {
+      "id": "tmrzm6525pmyl",
+      "title": "Lindsey uit YouTube gooien",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqimj5pkjj1"
+    },
+    {
       "id": "tmrzm624rgf7x",
       "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
@@ -434,18 +446,6 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmruqdwuvkk6a"
-    },
-    {
-      "id": "tmrzm6525pmyl",
-      "title": "Lindsey uit YouTube gooien",
-      "day": "2026-07-26",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrqimj5pkjj1"
     },
     {
       "id": "tmrzm66d7fv3w",
