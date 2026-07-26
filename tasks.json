@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-26T07:01:02.646Z",
+  "updatedAt": "2026-07-26T07:01:16.832Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -364,6 +364,18 @@
       "sourceId": "tmrq9lswb2dkp"
     },
     {
+      "id": "tmrzm6621evft",
+      "title": "Abonnementen bekijken / rocket money achtig iets?",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqin1rlr0p6"
+    },
+    {
       "id": "tmrzm624rgf7x",
       "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
@@ -434,18 +446,6 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqimj5pkjj1"
-    },
-    {
-      "id": "tmrzm6621evft",
-      "title": "Abonnementen bekijken / rocket money achtig iets?",
-      "day": "2026-07-26",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrqin1rlr0p6"
     },
     {
       "id": "tmrzm66d7fv3w",
