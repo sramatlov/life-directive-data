@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-25T16:46:23.602Z",
+  "updatedAt": "2026-07-26T07:01:02.646Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -352,6 +352,18 @@
       "sourceId": "tmrq5kqsivlll"
     },
     {
+      "id": "tmrzm64osasyl",
+      "title": "Belastingen doen",
+      "day": null,
+      "cat": "huis",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrq9lswb2dkp"
+    },
+    {
       "id": "tmrzm624rgf7x",
       "title": "Hout tuin verplaatsen",
       "day": "2026-07-25",
@@ -410,18 +422,6 @@
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmruqdwuvkk6a"
-    },
-    {
-      "id": "tmrzm64osasyl",
-      "title": "Belastingen doen",
-      "day": "2026-07-26",
-      "cat": "huis",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrq9lswb2dkp"
     },
     {
       "id": "tmrzm6525pmyl",
@@ -491,7 +491,9 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
-      "missionId": null
+      "missionId": null,
+      "source": null,
+      "sourceId": null
     },
     {
       "id": "tms0lpkb1dnfb",
@@ -501,7 +503,9 @@
       "done": false,
       "reminderAt": null,
       "completedAt": null,
-      "missionId": null
+      "missionId": null,
+      "source": null,
+      "sourceId": null
     }
   ],
   "missions": []
