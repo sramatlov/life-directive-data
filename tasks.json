@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-31T21:03:29.404Z",
+  "updatedAt": "2026-07-31T21:03:31.504Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -452,9 +452,9 @@
       "title": "CV fixen",
       "day": "2026-07-26",
       "cat": "huis",
-      "done": false,
+      "done": true,
       "reminderAt": null,
-      "completedAt": null,
+      "completedAt": "2026-07-31T21:03:31.501Z",
       "missionId": null,
       "source": "vacation-directive",
       "sourceId": "tmrqglv998seb"
