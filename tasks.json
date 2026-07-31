@@ -1,7 +1,7 @@
 {
   "app": "life-directive",
   "version": 6,
-  "updatedAt": "2026-07-31T21:03:08.682Z",
+  "updatedAt": "2026-07-31T21:03:29.404Z",
   "tasks": [
     {
       "id": "tmrzm5j56il1l",
@@ -448,18 +448,6 @@
       "sourceId": "tmruqdwuvkk6a"
     },
     {
-      "id": "tmrzm66d7fv3w",
-      "title": "Fatbike remmen fixen",
-      "day": "2026-07-26",
-      "cat": "project",
-      "done": false,
-      "reminderAt": null,
-      "completedAt": null,
-      "missionId": null,
-      "source": "vacation-directive",
-      "sourceId": "tmrqo7lh451pb"
-    },
-    {
       "id": "tmrzm5q4ge2l6",
       "title": "CV fixen",
       "day": "2026-07-26",
@@ -506,6 +494,18 @@
       "missionId": null,
       "source": null,
       "sourceId": null
+    },
+    {
+      "id": "tmrzm66d7fv3w",
+      "title": "Fatbike remmen fixen",
+      "day": "2026-08-01",
+      "cat": "project",
+      "done": false,
+      "reminderAt": null,
+      "completedAt": null,
+      "missionId": null,
+      "source": "vacation-directive",
+      "sourceId": "tmrqo7lh451pb"
     }
   ],
   "missions": []
